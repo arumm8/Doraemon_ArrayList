@@ -3,8 +3,6 @@ package doraemon;
 //2 buat object
 //3 nama object.add/remove/size/get(id)
 //4 sout untuk menampilkan
-//5
-//6
 
 import java.util.ArrayList;//class
 public class Doraemon {
